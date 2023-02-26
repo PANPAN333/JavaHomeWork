@@ -16,9 +16,7 @@ public class Ex01_PhoneBook {
         }
     }
 
-    /**
-     * Выбор операции над телефонной книгой
-     */
+    
     private static void chooseOperation() {
         System.out.println("""
                 Выберите операцию:
